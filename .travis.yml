@@ -23,7 +23,7 @@ matrix:
 
 notifications:
   email:
-    - github-awsforjava@amazon.com
+    - flaskytest1@gmail.com
 install: /bin/true
 sudo: required
 dist: precise
